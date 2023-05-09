@@ -1,4 +1,5 @@
 #pip==21.1.3
+pip install --upgrade pip
 pip install nvidia-pyindex
 pip install nvidia-tensorrt
 fastapi 
