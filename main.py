@@ -10,7 +10,7 @@ get_ipython().system('pip install fastapi nest-asyncio pyngrok uvicorn')
 # In[2]:
 
 
-pip install python-multipart
+get_ipython().system('pip install python-multipart')
 
 
 # In[3]:
