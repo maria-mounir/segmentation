@@ -10,11 +10,6 @@ imagecodecs
 imagecodecs-lite
 numpy
 pandas
-os
-io
 scikit-image
 scikit-learn
-json
-math 
-tempfile
-glob
+
