@@ -12,5 +12,7 @@ numpy
 pandas
 scikit-image
 scikit-learn
+tensorrt 
+nividia-tensorrt
 #cuda-toolkit
 #cudnn
