@@ -12,5 +12,5 @@ numpy
 pandas
 scikit-image
 scikit-learn
-cuda
+cuda-toolkit
 cudnn
