@@ -4,33 +4,33 @@
 # In[1]:
 
 
-get_ipython().system('pip install fastapi nest-asyncio pyngrok uvicorn')
+#get_ipython().system('pip install fastapi nest-asyncio pyngrok uvicorn')
 
 
 # In[2]:
 
 
-get_ipython().system('pip install python-multipart')
+#get_ipython().system('pip install python-multipart')
 
 
 # In[3]:
 
 
-get_ipython().system('pip install Pillow')
+#get_ipython().system('pip install Pillow')
 
 
 # In[4]:
 
 
-get_ipython().system('pip install tensorflow')
+#get_ipython().system('pip install tensorflow')
 
 
 # In[5]:
 
 
-get_ipython().system('pip install tifffile ')
-get_ipython().system('pip install imagecodecs')
-get_ipython().system('pip install imagecodecs-lite')
+#get_ipython().system('pip install tifffile ')
+#get_ipython().system('pip install imagecodecs')
+#get_ipython().system('pip install imagecodecs-lite')
 import numpy as np
 from skimage.io import imread
 import tifffile as tiff 
